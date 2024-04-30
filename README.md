@@ -73,6 +73,7 @@ Begin<br>
 End<br>
 <hr>
 <h2>Program:</h2>
+
 ```
 from itertools import permutations
 
@@ -103,6 +104,7 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
+
 ```
 
 <h2>Sample Input and Output:</h2>
